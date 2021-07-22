@@ -1,2 +1,2 @@
-*.html,*.css,*.javascript linguist-detectable=false
+*.html linguist-detectable=false
 
